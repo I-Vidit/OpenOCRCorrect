@@ -14,7 +14,9 @@ Following information is updated on the fly, after correction of each page:-
 
 # Updated versions
 
-https://www.cse.iitb.ac.in/~ocr/
+Bold/Unbold features are added to the previous code.
+It is also provided with Subscript and SuperScript features
+https://github.com/I-Vidit/OpenOCRCorrect
 
 # Video demo
 
